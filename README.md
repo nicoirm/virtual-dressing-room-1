@@ -5,7 +5,7 @@ Project Management Link : [Here](https://trello.com/b/yv5vQOUy/virtual-fit-on-ro
 
 ###### The Project will be look like the below video
 <a href="https://www.youtube.com/watch?v=_1GyAO5lFpE
-" target="_blank"><img src="https://www.youtube.com/watch?v=_1GyAO5lFpE" 
+" target="_blank"><img src="https://img.youtube.com/watch?v=_1GyAO5lFpE.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Scientific Problems 
