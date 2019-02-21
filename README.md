@@ -5,7 +5,7 @@ The virtual fitting room platform creates a dramatically more engaging experienc
  
 From increased traffic, higher sales conversions, and fewer product returns to higher perceived brand image, awareness and memory, virtual fitting room is a simple-to-implement turnkey solution that differentiates your brand and improves your bottom line.
 
-Project Management Link : [Here](https://trello.com/b/yv5vQOUy/virtual-fit-on-room)
+Project Management Link : [Trello Board](https://trello.com/b/yv5vQOUy/virtual-fit-on-room)
 
 ###### The Project will be look like the below video
 <a href="https://www.youtube.com/watch?v=_1GyAO5lFpE
