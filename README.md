@@ -1,7 +1,7 @@
 # :womans_clothes: :jeans: virtual-dressing-room :dress: :tshirt: 
 Augmented reality based virtual dressing room
 
-Project Management Link : (Here)[https://trello.com/b/yv5vQOUy/virtual-fit-on-room]
+Project Management Link : [Here](https://trello.com/b/yv5vQOUy/virtual-fit-on-room)
 
 ### Scientific Problems 
 :white_check_mark: mobile app should be realtime :iphone: <br>
